@@ -8,7 +8,7 @@
 Почта anuta2a@mail.ru
 tg https://t.me/hr_it_Devino
 
-[![codewars](https://www.codewars.com/users/AnnaCVrecruitment/badges/small)](https://www.codewars.com/users/AnnaCVrecruitment) 
+
 <!--
 **AnnaCVrecruitment/AnnaCVrecruitment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
