@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer (Vue)</h3>
 
-Обучаюсь фронтенд разработке. 
-Ищу вакансии начинающего разработчика
+Обучаюсь фронтенд разработке
 
 Почта anuta2a@mail.ru
 tg https://t.me/hr_it_Devino
