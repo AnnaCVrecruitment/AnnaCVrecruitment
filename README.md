@@ -7,6 +7,10 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZrenJjb25xb2dhcGJ2Mmdjc2h5MHRjdDEycnJnc3l5MDJpaDJtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8coPrVxWxBvB9WgfuT/giphy.gif" width="100"/>
 </div>
+## :hammer_and_wrench: Languages and Tools :
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 Почта anuta2a@mail.ru
