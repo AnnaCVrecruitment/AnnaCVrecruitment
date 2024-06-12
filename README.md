@@ -1,14 +1,12 @@
-<h1 align="left">Hi, I'm Ann - Frontend developer (Vue)</h1>
-<img align="right"
-  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-
+<h1 align="left">
+  <p> Hello, I'm Ann - Frontend developer (Vue)</p>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
 Обучаюсь фронтенд разработке
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhdmt5bXlnMHcxYmpvNXA5OGRieWJldDFlN2hhZHI4MjljYnR4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12pJ8OxSWwO86Y/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZrenJjb25xb2dhcGJ2Mmdjc2h5MHRjdDEycnJnc3l5MDJpaDJtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8coPrVxWxBvB9WgfuT/giphy.gif" width="100"/>
 </div>
-
-
 
 
 Почта anuta2a@mail.ru
