@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Ann
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer (Vue)</h3>
+<h1 align="left">Hi, I'm Ann - Frontend developer (Vue)</h1>
+<img align="right"
+  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+
 
 Обучаюсь фронтенд разработке
 <div id="header" align="center">
