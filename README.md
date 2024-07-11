@@ -2,19 +2,52 @@
   <p> Hello, I'm Ann - Frontend developer (Vue)</p>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+:woman_technologist: О себе:
+Frontend developer c опытом разработки более года. За это время изучила
+и успешно применяла на практике HTML, css, JavaScript, vue. В данный
+момент продолжаю совершенствовать свои навыки во vue, изучаю
+Vue router, pinia, typescript.
 
-Обучаюсь фронтенд разработке
+🔭 В свободное время изучаю программирование, иногда рисую в стиле
+аниме, играю на гитаре, люблю собак, читаю, смотрю сериалы.
+
+👯 Немного увлекаюсь играми в стиле tomb raider, resident evil, alan wake.
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZrenJjb25xb2dhcGJ2Mmdjc2h5MHRjdDEycnJnc3l5MDJpaDJtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8coPrVxWxBvB9WgfuT/giphy.gif" width="100"/>
 </div>
-## :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue?style=for-the-badge&logo=typescript&logoColor=white)
-Почта anuta2a@mail.ru
-tg https://t.me/hr_it_Devino
+![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=Vue&logoColor=white).
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-316192?style=for-the-badge&logo=Vuex&logoColor=white).
+![Nuxt](https://img.shields.io/badge/Nuxt-red.svg?style=for-the-badge&logo=nuxt&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-green?style=for-the-badge&&logoColor=white).
+![SQL](https://img.shields.io/badge/SQL-%23646CFF.svg?style=for-the-badge&logo=sql&logoColor=white).
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+
+
+
+Со мной можно связаться по следующим контактам:
+<div id="badges">
+  <a href="https://t.me/hr_it_Devino">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://career.habr.com/annahrkirova">
+    <img src="https://img.shields.io/badge/Habr-black?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+  </a>
+
+</div>
+📫 Почта: anuta2a@mail.ru
+
+💬 Тел.: 7-925-435-59-90
+
 
 
 <!--
