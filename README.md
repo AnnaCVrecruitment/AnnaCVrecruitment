@@ -35,7 +35,11 @@ Vue router, pinia, typescript.
 ![Confluence](https://img.shields.io/badge/Confluence-blue?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23646CFF.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaCVrecruitment&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+
 [![codewars](https://www.codewars.com/users/AnnaCVrecruitment/badges/small)](https://www.codewars.com/users/AnnaCVrecruitment) 
+
 
 
 Со мной можно связаться по следующим контактам:
