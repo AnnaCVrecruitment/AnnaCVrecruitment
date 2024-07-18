@@ -27,7 +27,6 @@ Vue router, pinia, typescript.
 ![SQL](https://img.shields.io/badge/SQL-%23646CFF.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%23646CFF.svg?style=for-the-badge&logo=SQL&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-red?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-%23646CFF.svg?style=for-the-badge&logo=pinia&logoColor=white)
 ![Vue router](https://img.shields.io/badge/Vue_router-green?style=for-the-badge&logo=Router&logoColor=white)
